@@ -87,7 +87,9 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+<img width="475" height="662" alt="WhatsApp Image 2026-09-04 at 8 55 12 AM" src="https://github.com/user-attachments/assets/6355c60e-9d3b-4aa2-848b-f07ebec6f3b7" />
 
+<img width="441" height="573" alt="WhatsApp Image 2026-09-04 at 8 55 12 AM" src="https://github.com/user-attachments/assets/7b93d4f8-e496-4bc5-a0ad-a4fec4c17de0" />
 
 # RESULT:
 Thus Shannon Fano coding are performed using MATLAB.
