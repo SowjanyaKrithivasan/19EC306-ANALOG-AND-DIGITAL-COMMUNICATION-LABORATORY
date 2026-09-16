@@ -22,14 +22,16 @@ Keep CH1 knob of CRO on 1 Volt/ divac. Keep CH2 knob of CRO on 2 Volts/ divac. K
 Keep the CRO in Dual channel (Auto/ TV mode). Use X10 for expansion. After proper triggering of CRO, observe both the signals PWM IN and PWM
 
 # BLOCK DIAGRAM:
-<img width="803" height="922" alt="image" src="https://github.com/user-attachments/assets/2b5805a5-8c98-4a76-a244-c704b97bba63" />
+<img width="858" height="552" alt="image" src="https://github.com/user-attachments/assets/7a0765c4-10e5-441d-997b-147e9b01a94a" />
 
 # Tabulation:
+<img width="1256" height="685" alt="image" src="https://github.com/user-attachments/assets/eeeb257f-78dc-434d-a494-28b3c2fa2d0d" />
 
 # Model Graph:
-<img width="697" height="81" alt="image" src="https://github.com/user-attachments/assets/aa4034f9-a0d1-46b9-a323-56edaa038f22" />
+<img width="652" height="567" alt="image" src="https://github.com/user-attachments/assets/1d30cf0e-73f3-40a2-9028-825a60d7d120" />
 
 # OUTPUT GRAPH:
+<img width="616" height="793" alt="image" src="https://github.com/user-attachments/assets/55aaf571-e94e-4179-88a8-6c56b9387801" />
 
 # Result:
 Thus the pulse width modulated and demodulated signals is generated and output is verified.
