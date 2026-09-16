@@ -19,6 +19,8 @@ msg
 code
 # ENCODING OUTPUT:
 
+<img width="593" height="470" alt="WhatsApp Image 2026-08-28 at 10 44 16 AM" src="https://github.com/user-attachments/assets/2b6cc219-678d-4fd2-bde7-d064a594194f" />
+
 # DECODING PROGRAM:
 clc;
 
@@ -51,6 +53,9 @@ corrvect
 correctedcode
 
 # DECODING OUTPUT:
+
+<img width="781" height="402" alt="WhatsApp Image 2026-08-28 at 10 44 17 AM" src="https://github.com/user-attachments/assets/33c16ddc-c6f1-4ce9-8557-5edce0358ccb" />
+
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
